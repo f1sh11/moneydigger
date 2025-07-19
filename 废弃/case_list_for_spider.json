@@ -1,0 +1,207 @@
+[
+  {
+    "id": "1",
+    "name_cn": "CS:GO 武器箱",
+    "name_en": "CS:GO Weapon Case"
+  },
+  {
+    "id": "2",
+    "name_cn": "电竞 2013 武器箱",
+    "name_en": "eSports 2013 Case"
+  },
+  {
+    "id": "3",
+    "name_cn": "“英勇大行动”武器箱",
+    "name_en": "Operation Bravo Case"
+  },
+  {
+    "id": "4",
+    "name_cn": "CS:GO 2 号武器箱",
+    "name_en": "CS:GO Weapon Case 2"
+  },
+  {
+    "id": "5",
+    "name_cn": "电竞 2013 冬季武器箱",
+    "name_en": "eSports 2013 Winter Case"
+  },
+  {
+    "id": "7",
+    "name_cn": "冬季攻势武器箱",
+    "name_en": "Winter Offensive Weapon Case"
+  },
+  {
+    "id": "10",
+    "name_cn": "CS:GO 3 号武器箱",
+    "name_en": "CS:GO Weapon Case 3"
+  },
+  {
+    "id": "11",
+    "name_cn": "“凤凰大行动”武器箱",
+    "name_en": "Operation Phoenix Weapon Case"
+  },
+  {
+    "id": "17",
+    "name_cn": "猎杀者武器箱",
+    "name_en": "Huntsman Weapon Case"
+  },
+  {
+    "id": "18",
+    "name_cn": "“突围大行动”武器箱",
+    "name_en": "Operation Breakout Weapon Case"
+  },
+  {
+    "id": "19",
+    "name_cn": "电竞 2014 夏季武器箱",
+    "name_en": "eSports 2014 Summer Case"
+  },
+  {
+    "id": "29",
+    "name_cn": "“先锋大行动”武器箱",
+    "name_en": "Operation Vanguard Weapon Case"
+  },
+  {
+    "id": "38",
+    "name_cn": "幻彩武器箱",
+    "name_en": "Chroma Case"
+  },
+  {
+    "id": "48",
+    "name_cn": "幻彩 2 号武器箱",
+    "name_en": "Chroma 2 Case"
+  },
+  {
+    "id": "50",
+    "name_cn": "弯曲猎手武器箱",
+    "name_en": "Falchion Case"
+  },
+  {
+    "id": "80",
+    "name_cn": "暗影武器箱",
+    "name_en": "Shadow Case"
+  },
+  {
+    "id": "111",
+    "name_cn": "左轮武器箱",
+    "name_en": "Revolver Case"
+  },
+  {
+    "id": "112",
+    "name_cn": "“野火大行动”武器箱",
+    "name_en": "Operation Wildfire Case"
+  },
+  {
+    "id": "141",
+    "name_cn": "幻彩 3 号武器箱",
+    "name_en": "Chroma 3 Case"
+  },
+  {
+    "id": "144",
+    "name_cn": "伽玛武器箱",
+    "name_en": "Gamma Case"
+  },
+  {
+    "id": "172",
+    "name_cn": "伽玛 2 号武器箱",
+    "name_en": "Gamma 2 Case"
+  },
+  {
+    "id": "179",
+    "name_cn": "手套武器箱",
+    "name_en": "Glove Case"
+  },
+  {
+    "id": "207",
+    "name_cn": "光谱武器箱",
+    "name_en": "Spectrum Case"
+  },
+  {
+    "id": "208",
+    "name_cn": "“九头蛇大行动”武器箱",
+    "name_en": "Operation Hydra Case"
+  },
+  {
+    "id": "220",
+    "name_cn": "光谱 2 号武器箱",
+    "name_en": "Spectrum 2 Case"
+  },
+  {
+    "id": "238",
+    "name_cn": "命悬—线武器箱",
+    "name_en": "Clutch Case"
+  },
+  {
+    "id": "244",
+    "name_cn": "地平线武器箱",
+    "name_en": "Horizon Case"
+  },
+  {
+    "id": "259",
+    "name_cn": "“头号特训”武器箱",
+    "name_en": "Danger Zone Case"
+  },
+  {
+    "id": "274",
+    "name_cn": "棱彩武器箱",
+    "name_en": "Prisma Case"
+  },
+  {
+    "id": "277",
+    "name_cn": "“裂网大行动”武器箱",
+    "name_en": "Shattered Web Case"
+  },
+  {
+    "id": "293",
+    "name_cn": "反恐精英20周年武器箱",
+    "name_en": "CS20 Case"
+  },
+  {
+    "id": "303",
+    "name_cn": "棱彩2号武器箱",
+    "name_en": "Prisma 2 Case"
+  },
+  {
+    "id": "307",
+    "name_cn": "裂空武器箱",
+    "name_en": "Fracture Case"
+  },
+  {
+    "id": "308",
+    "name_cn": "“狂牙大行动”武器箱",
+    "name_en": "Operation Broken Fang Case"
+  },
+  {
+    "id": "315",
+    "name_cn": "蛇噬武器箱",
+    "name_en": "Snakebite Case"
+  },
+  {
+    "id": "321",
+    "name_cn": "“激流大行动”武器箱",
+    "name_en": "Operation Riptide Case"
+  },
+  {
+    "id": "339",
+    "name_cn": "梦魇武器箱",
+    "name_en": "The Dreams & Nightmares Collection"
+  },
+  {
+    "id": "355",
+    "name_cn": "反冲武器箱",
+    "name_en": "Recoil Case"
+  },
+  {
+    "id": "376",
+    "name_cn": "变革武器箱",
+    "name_en": "Revolution Case"
+  },
+  {
+    "id": "393",
+    "name_cn": "千瓦武器箱",
+    "name_en": "Kilowatt Case"
+  },
+  {
+    "id": "412",
+    "name_cn": "画廊武器箱",
+    "name_en": "Gallery Case"
+  }
+]

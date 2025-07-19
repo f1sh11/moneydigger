@@ -1,0 +1,1214 @@
+{
+  "MAG-7 | 声纳": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "MAG-7 | 铋晶体": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "AK-47 | 皇后": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AK-47 | 血腥运动": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "MP7 | 游击队": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SSG 08 | 无尽深海": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P90 | 盲点": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P90 | 二西莫夫": {
+    "min_float": 0.0,
+    "max_float": 0.92
+  },
+  "Tec-9 | 贾姆比亚": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SCAR-20 | 暗夜活死鸡": {
+    "min_float": 0.0,
+    "max_float": 0.57
+  },
+  "M4A4 | 星级": {
+    "min_float": 0.06,
+    "max_float": 0.42
+  },
+  "UMP-45 | 金铋辉煌": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "SSG 08 | 炎龙之焰": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "SCAR-20 | 撕起来": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "MP5-SD | 鼻青脸肿": {
+    "min_float": 0.0,
+    "max_float": 0.68
+  },
+  "SCAR-20 | 血腥运动": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "SG 553 | 擎天神": {
+    "min_float": 0.0,
+    "max_float": 0.81
+  },
+  "AUG | 瘟疫": {
+    "min_float": 0.0,
+    "max_float": 0.76
+  },
+  "MAC-10 | 孔雀石": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P250 | 红岩": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 海之泡沫": {
+    "min_float": 0.0,
+    "max_float": 0.12
+  },
+  "MAC-10 | 阿罗哈": {
+    "min_float": 0.0,
+    "max_float": 0.65
+  },
+  "P2000 | 珊瑚树": {
+    "min_float": 0.06,
+    "max_float": 0.3
+  },
+  "MP7 | 权力之心": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "Tec-9 | 燃料喷射器": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP7 | 帝国": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "P2000 | 黑曜石": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 黑砂": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "G3SG1 | 黑砂": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "Tec-9 | 坍雪寒裘": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P250 | 迷人幻象": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "MAC-10 | 玩具盒子": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "Tec-9 | 冰冠": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "MP7 | 装甲核心": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "M4A4 | 死寂空间": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAC-10 | 白鲑鱼": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | *嘣*": {
+    "min_float": 0.06,
+    "max_float": 0.28
+  },
+  "AK-47 | 深海复仇": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 金粉肆蛇": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "XM1014 | 五彩斑驳": {
+    "min_float": 0.0,
+    "max_float": 0.72
+  },
+  "AK-47 | 可燃冰": {
+    "min_float": 0.0,
+    "max_float": 0.77
+  },
+  "AWP | 蠕虫之神": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "AK-47 | 夜愿": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 至高帝皇": {
+    "min_float": 0.0,
+    "max_float": 0.2
+  },
+  "AK-47 | 迷踪秘境": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "XM1014 | 焚烬之鳄": {
+    "min_float": 0.14,
+    "max_float": 0.65
+  },
+  "P2000 | 至尊威龙": {
+    "min_float": 0.0,
+    "max_float": 0.63
+  },
+  "P2000 | 林间猎者": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "MAC-10 | 炽热": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P90 | 夺命器": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "P250 | 铠甲": {
+    "min_float": 0.05,
+    "max_float": 0.8
+  },
+  "P90 | 精雕木刻": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 皇家圣骑士": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "P90 | 精英之作": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 喧嚣杀戮": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "MAC-10 | 致命紫罗兰": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "AWP | 浮生如梦": {
+    "min_float": 0.0,
+    "max_float": 0.55
+  },
+  "AUG | 动量": {
+    "min_float": 0.05,
+    "max_float": 1.0
+  },
+  "SCAR-20 | 丛林爆发": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "G3SG1 | 通风机": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "M4A4 | 透明弹匣": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "XM1014 | 行尸攻势": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "M249 | 系统锁定": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "SG 553 | 四号栖息地": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "UMP-45 | 迷幻": {
+    "min_float": 0.06,
+    "max_float": 0.35
+  },
+  "P90 | 翡翠之龙": {
+    "min_float": 0.06,
+    "max_float": 0.52
+  },
+  "XM1014 | 狻猊": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "G3SG1 | 行刑者": {
+    "min_float": 0.14,
+    "max_float": 0.85
+  },
+  "G3SG1 | 橙光冲击": {
+    "min_float": 0.0,
+    "max_float": 0.52
+  },
+  "MAG-7 | 禁卫军": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "G3SG1 | 特训地图": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "P250 | 死亡轮回": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "UMP-45 | 动量": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "Tec-9 | 艾萨克": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "G3SG1 | 公海": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "UMP-45 | 支架": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AUG | 极地孤狼": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "MP9 | 富士山": {
+    "min_float": 0.0,
+    "max_float": 0.55
+  },
+  "AWP | 鬼退治": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "XM1014 | 剧毒水银": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "MAC-10 | 潜行者": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 手炮": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 铁血玫瑰": {
+    "min_float": 0.0,
+    "max_float": 0.3
+  },
+  "M4A4 | 彼岸花": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SG 553 | 轻空": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "MP5-SD | 小小噩梦": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 红宝石毒镖": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "SCAR-20 | 次时代": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P2000 | 火灵": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "P2000 | 变态杀戮": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP5-SD | 零点行动": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "XM1014 | 天空守卫": {
+    "min_float": 0.03,
+    "max_float": 0.5
+  },
+  "AUG | 孟加拉猛虎": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "MP9 | 飞驰": {
+    "min_float": 0.0,
+    "max_float": 0.46
+  },
+  "P2000 | 都市危机": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 战场之星": {
+    "min_float": 0.0,
+    "max_float": 0.64
+  },
+  "MAC-10 | 不可磨灭": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "P2000 | 升天": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SCAR-20 | 蓝洞": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "AWP | 猫猫狗狗": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "M4A4 | 皇帝": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "AK-47 | 燃料喷射器": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 雷击": {
+    "min_float": 0.0,
+    "max_float": 0.08
+  },
+  "SSG 08 | 巨铁": {
+    "min_float": 0.0,
+    "max_float": 0.64
+  },
+  "AK-47 | 表面淬火": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P90 | 浅坟": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "M4A4 | 地狱烈焰": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P250 | 钢铁禁锢": {
+    "min_float": 0.0,
+    "max_float": 0.2
+  },
+  "M4A4 | 二西莫夫": {
+    "min_float": 0.18,
+    "max_float": 1.0
+  },
+  "P250 | 元素轮廓": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "SSG 08 | 鬼脸天蛾": {
+    "min_float": 0.0,
+    "max_float": 0.51
+  },
+  "MP5-SD | 高斯": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M249 | 岩浆": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "G3SG1 | 毒刺": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "M249 | 鬼影": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "MAC-10 | 捕猎者": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAG-7 | 鱼长梦短": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 镁元素": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 电子脉冲": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "G3SG1 | 猎人": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 乳白象牙": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SCAR-20 | 绿色陆战队": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "G3SG1 | 碧蓝斑纹": {
+    "min_float": 0.0,
+    "max_float": 0.28
+  },
+  "MP7 | 血腥运动": {
+    "min_float": 0.0,
+    "max_float": 0.65
+  },
+  "P90 | 冷血无情": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "M4A4 | 沙漠精英": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "AWP | 亡灵之主": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P250 | 曼海蒂": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 红色碎片迷彩": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "P250 | 二西莫夫": {
+    "min_float": 0.1,
+    "max_float": 1.0
+  },
+  "P90 | 病毒危机": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "AK-47 | 轨道 Mk01": {
+    "min_float": 0.0,
+    "max_float": 0.55
+  },
+  "P90 | 死亡之握": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SG 553 | 幻影": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "SG 553 | 浪花喷漆": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "AWP | 珊瑚树": {
+    "min_float": 0.06,
+    "max_float": 0.3
+  },
+  "MP9 | 星使": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "AWP | 暴怒野兽": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M249 | 闹市区": {
+    "min_float": 0.0,
+    "max_float": 0.65
+  },
+  "MAC-10 | 海洋": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "SSG 08 | 抖枪": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP7 | 幽幻深渊": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "G3SG1 | 丰饶女神": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "SCAR-20 | 深红之网": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "AUG | 湖怪鸟": {
+    "min_float": 0.0,
+    "max_float": 0.63
+  },
+  "AK-47 | 霓虹革命": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "P250 | 污染物": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "AUG | 弹跳线条": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "SG 553 | 豹灯蛾": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P250 | 重构": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "AK-47 | 精英之作": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 砂垢": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "MP7 | 复仇者": {
+    "min_float": 0.0,
+    "max_float": 0.32
+  },
+  "SG 553 | 三巨头": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 羽量级": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AK-47 | 复古浪潮": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AK-47 | 荒野反叛": {
+    "min_float": 0.05,
+    "max_float": 0.7
+  },
+  "MP7 | 七彩斑斓": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M249 | 星云十字军": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAG-7 | SWAG-7": {
+    "min_float": 0.0,
+    "max_float": 0.92
+  },
+  "MAC-10 | 错觉": {
+    "min_float": 0.21,
+    "max_float": 0.79
+  },
+  "UMP-45 | 合金绽放": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "P2000 | 海洋": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "SSG 08 | 速度激情": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "XM1014 | 四季": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "UMP-45 | 野蛮剑齿虎": {
+    "min_float": 0.0,
+    "max_float": 0.77
+  },
+  "SCAR-20 | 碎片": {
+    "min_float": 0.0,
+    "max_float": 0.78
+  },
+  "AK-47 | 红线": {
+    "min_float": 0.1,
+    "max_float": 0.7
+  },
+  "MAC-10 | 烧尽": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "SCAR-20 | 丛林滑流": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "AWP | 火卫一": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "MAG-7 | 先见之明": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "MAG-7 | 炽热": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 焦油缠绕": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "P250 | 生化短吻鳄": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "AUG | 席德.米德": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "UMP-45 | 下士": {
+    "min_float": 0.05,
+    "max_float": 0.75
+  },
+  "P90 | 喵之萌杀": {
+    "min_float": 0.08,
+    "max_float": 0.32
+  },
+  "SG 553 | 电子脉冲": {
+    "min_float": 0.1,
+    "max_float": 0.6
+  },
+  "MAG-7 | 硬水": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "MAC-10 | 青金鳄皮": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "Tec-9 | 蓝钛": {
+    "min_float": 0.0,
+    "max_float": 0.04
+  },
+  "G3SG1 | 血腥迷彩": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "Tec-9 | 叛逆": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P250 | 铜绿": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "M249 | 战隼": {
+    "min_float": 0.05,
+    "max_float": 0.65
+  },
+  "AWP | 树蝰": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAG-7 | 钴核": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "G3SG1 | 黑暗豹纹": {
+    "min_float": 0.0,
+    "max_float": 0.25
+  },
+  "AK-47 | 一发入魂": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SG 553 | 赛博之力": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "M4A4 | 渐变斑纹": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "SCAR-20 | 权力之心": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "G3SG1 | 梦之林地": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 黑色魅影": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P250 | 卡特尔": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "P250 | 狂野飞溅": {
+    "min_float": 0.06,
+    "max_float": 0.18
+  },
+  "P90 | 异星世界": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "MP7 | 海之泡沫": {
+    "min_float": 0.0,
+    "max_float": 0.08
+  },
+  "AWP | 二西莫夫": {
+    "min_float": 0.18,
+    "max_float": 1.0
+  },
+  "M249 | 翠绿箭毒蛙": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "AWP | 迷人眼": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "UMP-45 | 白骨之堆": {
+    "min_float": 0.06,
+    "max_float": 0.34
+  },
+  "AWP | 死神": {
+    "min_float": 0.0,
+    "max_float": 0.64
+  },
+  "AK-47 | 红色层压板": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "G3SG1 | 弗卢克斯": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "AK-47 | 美洲猛虎": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AUG | 贵族": {
+    "min_float": 0.0,
+    "max_float": 0.66
+  },
+  "P250 | 暗潮": {
+    "min_float": 0.0,
+    "max_float": 0.2
+  },
+  "M4A4 | 龙王": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "Tec-9 | 青竹伪装": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "Tec-9 | 蛇-9": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 石墨黑": {
+    "min_float": 0.0,
+    "max_float": 0.12
+  },
+  "Tec-9 | 钛片": {
+    "min_float": 0.0,
+    "max_float": 0.2
+  },
+  "MP7 | 速递": {
+    "min_float": 0.0,
+    "max_float": 0.62
+  },
+  "AK-47 | 二西莫夫": {
+    "min_float": 0.05,
+    "max_float": 0.7
+  },
+  "MAC-10 | 销声": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "MP7 | 都市危机": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "AWP | 电子蜂巢": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "SG 553 | 阿罗哈": {
+    "min_float": 0.0,
+    "max_float": 0.55
+  },
+  "MP7 | 恶作剧": {
+    "min_float": 0.1,
+    "max_float": 1.0
+  },
+  "UMP-45 | 白狼": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "P90 | 元女王": {
+    "min_float": 0.0,
+    "max_float": 0.6
+  },
+  "MAC-10 | 冉吉": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "P90 | 深蓝组件": {
+    "min_float": 0.0,
+    "max_float": 0.35
+  },
+  "MAC-10 | 霓虹骑士": {
+    "min_float": 0.0,
+    "max_float": 0.45
+  },
+  "XM1014 | 宁静": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "MP9 | 中度威胁": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "XM1014 | 锈蚀烈焰": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "P250 | 翼击": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "SSG 08 | 喋血战士": {
+    "min_float": 0.14,
+    "max_float": 0.6
+  },
+  "AK-47 | 火神": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "MAG-7 | 石雕": {
+    "min_float": 0.0,
+    "max_float": 0.44
+  },
+  "UMP-45 | 野孩子": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 黑色魅影": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "P90 | 冷血杀手": {
+    "min_float": 0.0,
+    "max_float": 0.08
+  },
+  "Tec-9 | 屠杀者": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "P250 | 红巢": {
+    "min_float": 0.0,
+    "max_float": 0.3
+  },
+  "MP9 | 毛细血管": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "MP5-SD | 磷光体": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "UMP-45 | 迷之宫": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "MP9 | 气密": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SSG 08 | 水中之血": {
+    "min_float": 0.06,
+    "max_float": 0.2
+  },
+  "MP7 | 非洲部落": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "AUG | 三角战术": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P2000 | 草皮": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAC-10 | 萌猴迷彩": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AK-47 | 霓虹骑士": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "AWP | 精英之作": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 无畏战神": {
+    "min_float": 0.1,
+    "max_float": 0.2
+  },
+  "MAG-7 | 灼烧之痕": {
+    "min_float": 0.06,
+    "max_float": 0.49
+  },
+  "P90 | 牵引力": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "SG 553 | 危险距离": {
+    "min_float": 0.02,
+    "max_float": 0.8
+  },
+  "G3SG1 | 净化者": {
+    "min_float": 0.0,
+    "max_float": 0.65
+  },
+  "M4A4 | 弹雨": {
+    "min_float": 0.02,
+    "max_float": 0.46
+  },
+  "AK-47 | 卡特尔": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "SSG 08 | 通灵者": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MP9 | 蛊惑之色": {
+    "min_float": 0.0,
+    "max_float": 0.08
+  },
+  "XM1014 | 血红巨蟒": {
+    "min_float": 0.08,
+    "max_float": 0.5
+  },
+  "MP7 | 死亡骷髅": {
+    "min_float": 0.1,
+    "max_float": 0.26
+  },
+  "SG 553 | 致命紫罗兰": {
+    "min_float": 0.06,
+    "max_float": 0.8
+  },
+  "MAG-7 | 天空守卫": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "SSG 08 | 黑水": {
+    "min_float": 0.1,
+    "max_float": 0.26
+  },
+  "SG 553 | 青龙": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "AUG | 燕群": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "XM1014 | 滑流": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "MP7 | 卷云": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "P250 | 涟漪": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "AK-47 | 混沌点阵": {
+    "min_float": 0.0,
+    "max_float": 0.67
+  },
+  "MP9 | 致命毒药": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AK-47 | 火蛇": {
+    "min_float": 0.06,
+    "max_float": 0.76
+  },
+  "Tec-9 | 剪纸": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AWP | 红线": {
+    "min_float": 0.1,
+    "max_float": 0.4
+  },
+  "MP9 | 生化泄漏": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "AK-47 | 前线迷雾": {
+    "min_float": 0.02,
+    "max_float": 0.87
+  },
+  "SSG 08 | 幽灵战士": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "AUG | 力矩": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "M249 | 等高线": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "Tec-9 | 沙尘暴": {
+    "min_float": 0.1,
+    "max_float": 0.7
+  },
+  "MP5-SD | 液化": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "UMP-45 | 路障": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "XM1014 | 斯康里娅": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "MAC-10 | 绝界之行": {
+    "min_float": 0.0,
+    "max_float": 0.52
+  },
+  "AK-47 | 蓝色层压板": {
+    "min_float": 0.02,
+    "max_float": 0.4
+  },
+  "P90 | 三角": {
+    "min_float": 0.08,
+    "max_float": 0.75
+  },
+  "MAC-10 | 坐牢": {
+    "min_float": 0.0,
+    "max_float": 0.9
+  },
+  "XM1014 | 特克卢喷射者": {
+    "min_float": 0.0,
+    "max_float": 0.65
+  },
+  "SCAR-20 | 心脏打击": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "P90 | 给爷冲": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "SCAR-20 | 蓝图": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "AUG | 鹰翼": {
+    "min_float": 0.0,
+    "max_float": 0.14
+  },
+  "UMP-45 | 暴乱": {
+    "min_float": 0.0,
+    "max_float": 0.7
+  },
+  "Tec-9 | 破铜烂铁": {
+    "min_float": 0.14,
+    "max_float": 1.0
+  },
+  "UMP-45 | 车王": {
+    "min_float": 0.25,
+    "max_float": 0.35
+  },
+  "P250 | 超新星": {
+    "min_float": 0.0,
+    "max_float": 0.4
+  },
+  "SSG 08 | 裂痕": {
+    "min_float": 0.15,
+    "max_float": 0.8
+  },
+  "SG 553 | 次时代": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "XM1014 | 西装革履": {
+    "min_float": 0.0,
+    "max_float": 0.75
+  },
+  "MAG-7 | 记忆碎片": {
+    "min_float": 0.02,
+    "max_float": 0.18
+  },
+  "UMP-45 | 简报": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  },
+  "M4A4 | 狮鹫": {
+    "min_float": 0.0,
+    "max_float": 0.8
+  },
+  "AUG | 变色龙": {
+    "min_float": 0.0,
+    "max_float": 0.5
+  },
+  "Tec-9 | 碎蛋白石": {
+    "min_float": 0.0,
+    "max_float": 1.0
+  }
+}
